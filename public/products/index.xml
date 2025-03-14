@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on Dubai Chocolate</title>
-    <link>http://localhost:1313/products/</link>
+    <link>https://your-domain.com/products/</link>
     <description>Recent content in Products on Dubai Chocolate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://your-domain.com/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luxury Dark Chocolate</title>
-      <link>http://localhost:1313/products/dark-chocolate/</link>
+      <link>https://your-domain.com/products/dark-chocolate/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/dark-chocolate/</guid>
+      <guid>https://your-domain.com/products/dark-chocolate/</guid>
       <description>&lt;p&gt;Our Luxury Dark Chocolate is made from the finest cocoa beans, blended and crafted in Dubai, delivering an exquisite taste experience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Luxury Dark Chocolate</title>
-      <link>http://localhost:1313/products/milk-chocolate/</link>
+      <link>https://your-domain.com/products/milk-chocolate/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/milk-chocolate/</guid>
+      <guid>https://your-domain.com/products/milk-chocolate/</guid>
       <description>&lt;p&gt;Our Luxury Milk Chocolate is made from the finest cocoa beans, blended and crafted in Dubai, delivering an exquisite taste experience.&lt;/p&gt;</description>
     </item>
   </channel>
