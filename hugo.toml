@@ -1,7 +1,8 @@
-baseURL = 'https://your-domain.com/'
+baseURL = "https://josepeck.github.io/dubaichocolatemadrid/"
 languageCode = 'en-us'
 title = 'Dubai Chocolate'
 theme = 'ananke'
+publishDir = "docs"
 
 # Optional configurations:
 [params]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Dubai Chocolate</title>
+    <link>https://josepeck.github.io/dubaichocolatemadrid/products/</link>
+    <description>Recent content in Products on Dubai Chocolate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://josepeck.github.io/dubaichocolatemadrid/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luxury Dark Chocolate</title>
+      <link>https://josepeck.github.io/dubaichocolatemadrid/products/dark-chocolate/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://josepeck.github.io/dubaichocolatemadrid/products/dark-chocolate/</guid>
+      <description>&lt;p&gt;Our Luxury Dark Chocolate is made from the finest cocoa beans, blended and crafted in Dubai, delivering an exquisite taste experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Luxury Dark Chocolate</title>
+      <link>https://josepeck.github.io/dubaichocolatemadrid/products/milk-chocolate/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://josepeck.github.io/dubaichocolatemadrid/products/milk-chocolate/</guid>
+      <description>&lt;p&gt;Our Luxury Milk Chocolate is made from the finest cocoa beans, blended and crafted in Dubai, delivering an exquisite taste experience.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
