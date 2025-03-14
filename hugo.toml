@@ -1,0 +1,9 @@
+baseURL = 'https://your-domain.com/'
+languageCode = 'en-us'
+title = 'Dubai Chocolate'
+theme = 'ananke'
+
+# Optional configurations:
+[params]
+  description = "Finest Chocolates from Dubai"
+  show_reading_time = false
